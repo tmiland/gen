@@ -1,4 +1,6 @@
 # gen
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 Generate (gen) is a command line tool to automate creation of script files, modification of file permissions, and input default script template.
   Version 1.1 - Nov. 26, 2022
 
